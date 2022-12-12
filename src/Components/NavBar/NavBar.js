@@ -1,4 +1,5 @@
 import React from "react";
+import { FaSun } from "react-icons/fa";
 import { Link } from "react-router-dom";
 
 const NavBar = () => {
@@ -12,6 +13,9 @@ const NavBar = () => {
       </li>
       <li className="text-white font-semibold">
         <Link to="/contact">Contact</Link>
+      </li>
+      <li className="text-white font-semibold">
+        <a href="https://mahbuba-akhter-ema-light-theme.netlify.app/"><FaSun/></a>
       </li>
     </>
   );

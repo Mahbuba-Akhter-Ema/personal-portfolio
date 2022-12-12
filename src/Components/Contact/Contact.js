@@ -27,7 +27,7 @@ const Contact = () => {
                     <div className="card-body items-center text-center">
                         <div className="flex justify-between gap-2">
                             <p>Country: </p>
-                            <p>Unite State</p>
+                            <p>United State</p>
                         </div>
                         <div className="flex justify-between gap-2">
                             <p>City: </p>

@@ -25,7 +25,7 @@ const FirstSideNav = () => {
             label="Mahbuba"
             alt=""
             className="w-20 rounded-full"
-            src="https://i.ibb.co/pjjJX8P/img-2-removebg-preview-1.png"
+            src="https://i.ibb.co/vY2c3Hb/final-img-removebg-preview.png"
           />
         </div>
         <p className="font-semibold text-sm md:text-sm text-white">
