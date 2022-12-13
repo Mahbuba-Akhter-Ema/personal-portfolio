@@ -11,7 +11,7 @@ const Banner = () => {
     loop: Infinity
   })
   return (
-    <div>
+    <div className=''>
       <div
          data-aos="fade-down"
          data-aos-easing="linear"
